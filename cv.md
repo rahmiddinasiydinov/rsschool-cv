@@ -24,7 +24,7 @@ Problem solver and fast learner with strong communication skills. I am motivated
      * PostgreSQL
      * MongoDb
   * #### **Weak**
-    * Bootstrap
+    * Bootstrap 4
     * Materialize
     * Material UI
     * Jquery
