@@ -23,7 +23,6 @@ Problem solver and fast learner with strong communication skills. I am motivated
      * Express js
      * PostgreSQL
      * MongoDb
-     * GitHub
   * #### Weak
     * Bootstrap
     * Materialize
